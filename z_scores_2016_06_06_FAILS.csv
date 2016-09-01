@@ -1,0 +1,3 @@
+"date","date_end","site","site_name","variable","value","site_network_id","statistic_type_id","ratified_id","unit_id","unit_name","statistic_type","network_parameter_id","network_id","z_score","z_score_fail"
+2016-06-05,2016-06-06,"pt7","Port Talbot Docks","v10",18.15,2045,12,1,118,"ugm-3 (TEOM FDMS)","daily_mean",101,"waun",4.75571056215877,FALSE
+2016-06-05,2016-06-06,"pt9","Port Talbot Twll-yn-y-Wal Park","v10",16.3,2150,12,1,118,"ugm-3 (TEOM FDMS)","daily_mean",101,"waun",4.08851706786345,FALSE
